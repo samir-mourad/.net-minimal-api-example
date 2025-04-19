@@ -35,6 +35,7 @@ The goal of this project is to demonstrate how to:
    ```
 
 🐳 Running with Docker
+
 To run this project inside a Docker container, follow these steps:
 
 1. Build the Docker image
