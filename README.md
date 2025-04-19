@@ -29,9 +29,9 @@ The goal of this project is to demonstrate how to:
    dotnet run
    ```
 
-3. Access the interactive Swagger documentation:
+3. Access the API:
    ```
-   http://localhost:5000/swagger
+   http://localhost:5000
    ```
 
 🐳 Running with Docker
