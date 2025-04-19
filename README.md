@@ -31,7 +31,7 @@ The goal of this project is to demonstrate how to:
 
 3. Access the API:
    ```
-   http://localhost:5000
+   http://localhost:5000 or https://localhost:5050
    ```
 
 🐳 Running with Docker
